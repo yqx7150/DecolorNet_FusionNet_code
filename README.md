@@ -33,3 +33,5 @@ The whole method consists of the global-local contrast conversion stage and the 
   * Log-Euclidean Metrics for Contrast Preserving Decolorization
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8016668)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LeDecolor)
 
+  * Semiparametric Decolorization With Laplacian-Based Perceptual Quality Metric
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/7456206)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SPDecolor)

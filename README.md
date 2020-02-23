@@ -1,8 +1,8 @@
 # DecolorNet_FusionNet_code
 Variable Augmented Neural Network for Decolorization and Multi-Exposure Fusion
 
-%% The Code is created based on the method described in the following paper:    
-% [1] Q. Liu, H. Leung.“Variable Augmented Neural Network for Decolorization and Multi-Exposure Fusion”    
+% Code is created based on the method described in the following paper:    
+% Q. Liu, H. Leung.“Variable Augmented Neural Network for Decolorization and Multi-Exposure Fusion”    
 % Information Fusion, vol. 46, pp.114-127, 2019.    
 % Author: Q. Liu, H. Leung    
 % Date : 22/4/2017    

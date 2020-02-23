@@ -18,3 +18,7 @@ Variable Augmented Neural Network for Decolorization and Multi-Exposure Fusion
  
   
 The whole method consists of the global-local contrast conversion stage and the image-gradient fusion stage. In the CNN procedure, both operators “Conv” and “ReLU” are included in the first and second layers, while only “Conv” exists in the third layer.   
+
+
+## Demonstration of DecolorNet
+![](./figs/Compare_DecolorNet.png)  

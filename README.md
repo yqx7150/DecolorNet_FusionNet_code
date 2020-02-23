@@ -40,6 +40,6 @@ These wallpaper images contain a variety of important structures such as large s
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/7456206)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SPDecolor)
 
   * Color-to-gray Conversion on Wallpaper Dataset
-[<font size=5>**[Paper]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code/tree/master/Wallpapers_Dataset)   
+[<font size=5>**[Dataset]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code/tree/master/Wallpapers_Dataset)   
 
 

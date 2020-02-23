@@ -21,5 +21,7 @@ The whole method consists of the global-local contrast conversion stage and the 
 
 
 ## Demonstration of DecolorNet
-![](./Compare_DecolorNet2.png)  
 ![](./Compare_DecolorNet.png)  
+
+## Demonstration of FusionNet
+![](./Compare_DecolorNet2.png) 

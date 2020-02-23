@@ -28,7 +28,7 @@ The whole method consists of the global-local contrast conversion stage and the 
 
 
 ## Other Related Projects
-  * GcsDecolor: Gradient correlation similarity for efficient contrast preserving decolorization [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/7088620)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GcsDecolor)
+  * GcsDecolor: Gradient Correlation Similarity for Efficient Contrast Preserving Decolorization [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/7088620)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GcsDecolor)
 
   * Log-Euclidean Metrics for Contrast Preserving Decolorization
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8016668)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LeDecolor)

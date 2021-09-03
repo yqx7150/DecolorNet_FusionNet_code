@@ -43,3 +43,5 @@ These wallpaper images contain a variety of important structures such as large s
 [<font size=5>**[Dataset]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code/tree/master/Wallpapers_Dataset)   
 
 
+  * Variable Augmented Network for Invertible Modality Synthesis-Fusion
+[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2109/2109.00670.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/iVAN)
